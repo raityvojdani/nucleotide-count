@@ -26,8 +26,8 @@ Given a string representing a DNA sequence, count how many of each nucleotide (`
 - The method returns the final dictionary with the counts of each nucleotide.
 
 ## Requirements
-- C# 9.0 or later
-- .NET Core 5.0 or later
+- C# 
+- .NET Core 
 
 ## Setup and Run Instructions
 1. **Clone the repository**:
