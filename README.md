@@ -32,5 +32,5 @@ Given a string representing a DNA sequence, count how many of each nucleotide (`
 ## Setup and Run Instructions
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/nucleotide-count.git
+   git clone https://github.com/raityvojdani/nucleotide-count.git
    cd nucleotide-count
